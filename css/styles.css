@@ -1,0 +1,46 @@
+body {
+    background-color: aquamarine;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.recipe-list {
+    font-size: 24px;
+    font-weight: 200;
+    color: black;
+}
+
+h2 {
+    text-align: left;
+    font-weight: 300;
+    color: rgb(0, 0, 0);
+}
+
+.ingredients-list, .steps {
+    font-size: 20px;
+}
+
+.ingredients-list {
+    background-color: wheat;
+}
+
+.steps {
+    background-color: thistle;
+}
+
+.main-img {
+    width: 500px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#first-p {
+    color: rgb(163, 27, 27);
+}
